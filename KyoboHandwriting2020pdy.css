@@ -1,0 +1,11 @@
+@font-face {
+    font-family: 'KyoboHandwriting2020pdy';
+    font-weight: normal;
+    font-style: normal;
+    src: url('https://cdn.jsdelivr.net/gh/webfontworld/kyobobook/KyoboHandwriting2020pdy.eot');
+    src: url('https://cdn.jsdelivr.net/gh/webfontworld/kyobobook/KyoboHandwriting2020pdy.eot?#iefix') format('embedded-opentype'),
+         url('https://cdn.jsdelivr.net/gh/webfontworld/kyobobook/KyoboHandwriting2020pdy.woff2') format('woff2'),
+         url('https://cdn.jsdelivr.net/gh/webfontworld/kyobobook/KyoboHandwriting2020pdy.woff') format('woff'),
+         url('https://cdn.jsdelivr.net/gh/webfontworld/kyobobook/KyoboHandwriting2020pdy.ttf') format("truetype");
+    font-display: swap;
+}
